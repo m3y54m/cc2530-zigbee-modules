@@ -1,5 +1,7 @@
 # CC2530 Zigbee Modules
 
+[ZigBee 3.0 Part 1: getting started with CC2530](https://www.bestov.io/blog/zigbee-3-part-1-getting-started-with-cc2530)
+
 ## Module 1 (CC2530A2)
 
 ![image](https://github.com/m3y54m/cc2530-zigbee-modules/assets/1549028/cf395ce3-88e4-4989-be48-583dacc8a270)
